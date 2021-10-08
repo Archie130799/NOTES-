@@ -164,3 +164,6 @@
 69. Habitually Better: Building habits to be your best self!
 70. Building Android Widgets from Scratch ( Learn 8 Widgets)
 71. Graphic Design - Biding For Online Work 101
+72. Adobe Premiere Pro 2021 Ultimate Course
+73. How to sell on Instagram: marketing for online sales via DM
+74. The Complete Pinterest Marketing Guide for Creatives 2021
