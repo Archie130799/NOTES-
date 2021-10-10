@@ -2,6 +2,7 @@
 ## Main account
 ## Secondary account
 ## List of Courses in MAIN ACCOUNT
+### KEYWORDS
 1. How to Draw 101: BASIC DRAWING SKILLS & Sketching Course
 2. Success Mindset Mastery 2021
 3. The Blender 2.8 Encyclopedia
@@ -93,6 +94,13 @@
 89. Fundamentals of Mindfulness
 
 ## List of courses in Secondary account
+### KEYWORDS
+* English
+* adobe
+* premiere
+* public speaking
+* leadership
+
 1. Drone: Mastering all its Components
 2. Sewing Masterclass
 3. Complete Adobe Lightroom Megacourse: Beginner to Expert
@@ -167,3 +175,10 @@
 72. Adobe Premiere Pro 2021 Ultimate Course
 73. How to sell on Instagram: marketing for online sales via DM
 74. The Complete Pinterest Marketing Guide for Creatives 2021
+75. Microsoft Excel Zero to Advanced: Data Analysis & Dashboards
+76. The complete Personal Protective Equipment training
+77. Video Editing In Adobe Premiere Pro Mega Pack 5 Courses In 1
+78. Next-Generation Memory, Learning & Communication Improvement
+79. Improve English by Listening Movies – 1b
+80. Learn Basics of Adobe Photoshop CC 2021 for Beginners
+81. Premiere Pro Mastery Course: Learn Premiere Pro by Creating
