@@ -100,6 +100,7 @@
 * premiere
 * public speaking
 * leadership
+* Google 
 
 1. Drone: Mastering all its Components
 2. Sewing Masterclass
@@ -181,4 +182,12 @@
 78. Next-Generation Memory, Learning & Communication Improvement
 79. Improve English by Listening Movies – 1b
 80. Learn Basics of Adobe Photoshop CC 2021 for Beginners
-81. Premiere Pro Mastery Course: Learn Premiere Pro by Creating
+82. Learn 27 Ways to Make Money Online with Your Smartphone!
+83. Focus Mastery: Focus 100% On Your Goals & Kill Distractions
+84. Adobe InDesign 2021 Ultimate Course
+85. Adobe After Effects 2021 Ultimate Course
+86. 2021 YouTube Channel Success - Fast track guide to YouTube
+87. Learn 3D Modeling: Blender Basics in Under 2 Hours
+88. Google Calendar :  Virtual Assistant
+89. Digital Marketing Strategy Course 2021. Start from scratch!
+90. Adobe XD 2021 Projects
