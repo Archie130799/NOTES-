@@ -100,7 +100,12 @@
 * premiere
 * public speaking
 * leadership
-* Google 
+* Google
+* Microsoft
+* Excel
+* Personal
+* writing  - letter - content
+* positive
 
 1. Drone: Mastering all its Components
 2. Sewing Masterclass
@@ -191,3 +196,13 @@
 88. Google Calendar :  Virtual Assistant
 89. Digital Marketing Strategy Course 2021. Start from scratch!
 90. Adobe XD 2021 Projects
+91. Creative Infographics in PowerPoint
+92. Resume Secrets: Writing Resumes that Get More Job Interviews
+93. Make Money Online: Mindset Training + Real-Life Examples
+94. Guide to understanding and assessing personality
+95. Revenue and Pricing Analytics with Excel & Python.
+96. Writing Business Letters
+97. YouTube 2021 Million+ Views: Increase Profits, Subs & Rank
+98. Become a Freelance Content Writer - Get Paid to Write Online
+99. Law of Attraction: Power of Positive Mindset
+100. Complete Adobe Photoshop Megacourse: Beginner to Expert
