@@ -206,3 +206,13 @@
 98. Become a Freelance Content Writer - Get Paid to Write Online
 99. Law of Attraction: Power of Positive Mindset
 100. Complete Adobe Photoshop Megacourse: Beginner to Expert
+101. Machine Learning, Deep Learning and Bayesian Learning
+102. Adobe XD 2021 Basics
+103. Adobe Dreamweaver 2021 Projects
+104. Wedding Invitation Design for Beginners
+105. Interactive PowerPoint Presentations Made Simple
+106. Adobe Photoshop 2021 Basics
+107. Adobe Lightroom Masterclass - Beginner to Expert
+108. Modern Zooming PowerPoint Presentations within Minutes!
+109. The 2021 Marketing Method with Assignments & Case Study!
+110. Public Speaking Emergency! Ace the Speech With Little Prep
