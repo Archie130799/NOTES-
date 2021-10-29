@@ -95,17 +95,17 @@
 
 ## List of courses in Secondary account
 ### KEYWORDS
-* English
 * adobe
-* premiere
-* public speaking
-* leadership
+* speaking
+* Official - office , qualities
 * Google
 * Microsoft
-* Excel
-* Personal
 * writing  - letter - content
-* positive
+* 3D
+* Meditation  
+* Exercise
+* Gaming
+* Self Development
 
 1. Drone: Mastering all its Components
 2. Sewing Masterclass
@@ -185,7 +185,7 @@
 76. The complete Personal Protective Equipment training
 77. Video Editing In Adobe Premiere Pro Mega Pack 5 Courses In 1
 78. Next-Generation Memory, Learning & Communication Improvement
-79. Improve English by Listening Movies – 1b
+79. Improve English by Listening Movies – 1b  - Speaking
 80. Learn Basics of Adobe Photoshop CC 2021 for Beginners
 82. Learn 27 Ways to Make Money Online with Your Smartphone!
 83. Focus Mastery: Focus 100% On Your Goals & Kill Distractions
@@ -216,3 +216,16 @@
 108. Modern Zooming PowerPoint Presentations within Minutes!
 109. The 2021 Marketing Method with Assignments & Case Study!
 110. Public Speaking Emergency! Ace the Speech With Little Prep
+111. The Best Course For Learning about Collaboration/ Teamwork
+112. The Complete Public Speaking Course: Become a Great Speaker
+113. Interview Essentials - Master Your Interview Essentials Now - Official
+114. Creating Weapons in Maya - 3D
+115. Social Skills - How To Make A Great First Impression  -  Speaking
+116. Business Card Design for Free & in Minutes w/Canva Templates - canva
+117. MEDITATION is a great tool for YOUR MIND  - Meditation
+118. Stretching For The Inflexible - Beginner Stretching -  Exercise
+119. Mental Freedom: From PAIN To POWER  - Meditation
+120. Life Skills To Transform Your Life  -  Self Developement
+121. Learn To Code Trading Card Game Battle System With Unity 3D - Gaming , 3D
+122. The Ultimate Guide To Starting a Business   - Business
+123. Improve English by Films Comprehension      _ Speaking
