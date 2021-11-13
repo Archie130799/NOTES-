@@ -94,18 +94,7 @@
 89. Fundamentals of Mindfulness
 
 ## List of courses in Secondary account
-### KEYWORDS
-* adobe
-* speaking
-* Official - office , qualities
-* Google
-* Microsoft
-* writing  - letter - content
-* 3D
-* Meditation  
-* Exercise
-* Gaming
-* Self Development
+
 
 1. Drone: Mastering all its Components
 2. Sewing Masterclass
@@ -229,3 +218,22 @@
 121. Learn To Code Trading Card Game Battle System With Unity 3D - Gaming , 3D
 122. The Ultimate Guide To Starting a Business   - Business
 123. Improve English by Films Comprehension      _ Speaking
+124. Complete Guide to Pinterest & Pinterest Growth 2021
+125. First Steps Into Public Speakin  - speaking
+126. Learn to Create a Resume and Cover Letter (for Designers)  - Official
+127. The Complete Motivation Course: Motivation for Your Success - self Development
+128. 
+
+### KEYWORDS
+* adobe
+* speaking
+* Official - office , qualities
+* Google
+* Microsoft
+* writing  - letter - content
+* 3D
+* Meditation  
+* Exercise
+* Gaming
+* Self Development
+* Social media and marketing
