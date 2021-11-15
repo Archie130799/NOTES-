@@ -222,7 +222,10 @@
 125. First Steps Into Public Speakin  - speaking
 126. Learn to Create a Resume and Cover Letter (for Designers)  - Official
 127. The Complete Motivation Course: Motivation for Your Success - self Development
-128. 
+128. Color Correction & Grading with Adobe Premiere Pro 2022  - adobe
+129. Learn Basics Of Adobe After Effects CC 2022 for Beginners  - adobe
+130. Kundalini Awakening with Guided Meditations - meditation
+131. 
 
 ### KEYWORDS
 * adobe
