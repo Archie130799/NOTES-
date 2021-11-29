@@ -225,7 +225,9 @@
 128. Color Correction & Grading with Adobe Premiere Pro 2022  - adobe
 129. Learn Basics Of Adobe After Effects CC 2022 for Beginners  - adobe
 130. Kundalini Awakening with Guided Meditations - meditation
-131. 
+131. Journalism: Conduct Great Media Interviews   -  speaking
+132. Step by Step Instagram Growth Strategy for Beginners - Social media and marketing
+133. 
 
 ### KEYWORDS
 * adobe
