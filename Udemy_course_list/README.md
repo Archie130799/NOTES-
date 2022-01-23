@@ -227,7 +227,11 @@
 130. Kundalini Awakening with Guided Meditations - meditation
 131. Journalism: Conduct Great Media Interviews   -  speaking
 132. Step by Step Instagram Growth Strategy for Beginners - Social media and marketing
-133. 
+133. Game Art & Design Tips & Tricks - 3D
+134. Design Thinking Guide for Successful Professionals -
+135. Adobe Premiere Pro CC 2017 - The Complete Guide - Adobe
+136. How I Got 1k Followers In 1 Day With TikTok Marketing & Ads - social media and marketing
+137. 
 
 ### KEYWORDS
 * adobe
