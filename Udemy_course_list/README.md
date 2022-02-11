@@ -231,7 +231,17 @@
 134. Design Thinking Guide for Successful Professionals -
 135. Adobe Premiere Pro CC 2017 - The Complete Guide - Adobe
 136. How I Got 1k Followers In 1 Day With TikTok Marketing & Ads - social media and marketing
-137. 
+137. Adobe Premiere Pro CC 2017 - The Complete Guide - adobe
+138. 7 Day Journaling Challenge - self developed
+139. What's Meta - How Metaverse Change the World - Short Course - official
+140. 15-Minute Weight Loss & Fat Burning Home Workouts - exercise
+141. The Complete NFT Course: Become an NFT Creator & Investor - official
+142. Microsoft Excel: Excel course for beginners - microsoft
+143. Cancel Brain Fog to Prime Deep Focus, Productivity and Flow - self development
+144. 
+
+
+
 
 ### KEYWORDS
 * adobe
